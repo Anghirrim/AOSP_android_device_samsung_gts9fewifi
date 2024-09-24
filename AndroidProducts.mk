@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_essi.mk
+    $(LOCAL_DIR)/lineage_gts9fewifi.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_essi-user \
-    lineage_essi-userdebug \
-    lineage_essi-eng
+    lineage_gts9fewifi-user \
+    lineage_gts9fewifi-userdebug \
+    lineage_gts9fewifi-eng
