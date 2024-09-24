@@ -11,11 +11,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-# Inherit from essi device
-$(call inherit-product, device/samsung/essi/device.mk)
+# Inherit from gts9fewifi device
+$(call inherit-product, device/samsung/gts9fewifi/device.mk)
 
-PRODUCT_DEVICE := essi
-PRODUCT_NAME := lineage_essi
+PRODUCT_DEVICE := gts9fewifi
+PRODUCT_NAME := lineage_gts9fewifi
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-X510
 PRODUCT_MANUFACTURER := samsung
