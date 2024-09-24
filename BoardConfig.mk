@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/samsung/essi
+DEVICE_PATH := device/samsung/gts9fewifi
 
 # Architecture
 TARGET_ARCH := arm64
@@ -108,4 +108,4 @@ BOARD_AVB_VENDOR_BOOT_ROLLBACK_INDEX_LOCATION := 1
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Inherit the proprietary files
-include vendor/samsung/essi/BoardConfigVendor.mk
+include vendor/samsung/gts9fewifi/BoardConfigVendor.mk
