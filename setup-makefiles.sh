@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=essi
+DEVICE=gts9fewifi
 VENDOR=samsung
 
 # Load extract_utils and do some sanity checks
