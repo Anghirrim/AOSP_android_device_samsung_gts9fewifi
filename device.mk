@@ -54,4 +54,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/samsung/essi/essi-vendor.mk)
+$(call inherit-product, vendor/samsung/gts9fewifi/gts9fewifi-vendor.mk)
