@@ -1,4 +1,4 @@
-# Android device tree attempt for samsung SM-X510 (essi)
+# Android device tree attempt for samsung SM-X510 (gts9fewifi / essi)
 
 Made with dumpyara ( https://github.com/sebaubuntu-python/dumpyara )
 And aospdtgen ( https://github.com/sebaubuntu-python/aospdtgen )
